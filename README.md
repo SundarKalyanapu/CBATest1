@@ -10,6 +10,12 @@ This framework contains test for HerokuApp
 To Get Started
 Pre-requisites
 - Download and install Chrome or Firefox browser or Edge.
-- Add
+
+How to run Tests
+
+
+Results
+
+Usage 
 
 Setup Scripts
