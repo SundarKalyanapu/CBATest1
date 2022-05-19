@@ -7,15 +7,27 @@ This framework contains test for HerokuApp
 - This automation framework is designed using NUnit.
 - C# is used as programming language.
 
-To Get Started
+**To Get Started**
 Pre-requisites
 - Download and install Chrome or Firefox browser or Edge.
+- Download relavant NuGet packages 
 
-How to run Tests
+**How to run Tests**
+Once all pre- requesits are loaded you are ready to run the test.
+Add usernames and Password in  IEnumerable<TestCaseData>- Register.Cs. to run the Test.
+
+**Results**
+Registering as a new user and user validity check.
+Login in to HerokuApp using different types of Browsers.
+Once the user validity check is completed it will direct to login page.
+
+**Test Sctipts:**
+Page object model design pattern is used.
+Base folder- web driver.
+PageObject-  web elements
+Test- Test senarios.
 
 
-Results
 
-Usage 
 
-Setup Scripts
+
